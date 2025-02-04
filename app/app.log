@@ -1,0 +1,18 @@
+2025-02-04 14:09:22,067 - INFO - Iniciando aplicação
+2025-02-04 14:09:22,835 - INFO - Obtendo todos os usuários...
+2025-02-04 14:09:22,835 - INFO - Buscando lista de usuários
+2025-02-04 14:09:22,905 - INFO - Lista de usuários recebida com sucesso.
+2025-02-04 14:09:29,867 - INFO - Obtendo usuário por ID
+2025-02-04 14:09:29,868 - INFO - Buscando lista de usuários
+2025-02-04 14:09:29,918 - INFO - Lista de usuários recebida com sucesso.
+2025-02-04 14:09:29,919 - INFO - Obtendo posts do usuário por ID de usuário.
+2025-02-04 14:09:29,919 - INFO - Buscando posts do usuário
+2025-02-04 14:10:46,998 - INFO - Iniciando aplicação
+2025-02-04 14:10:48,131 - INFO - Obtendo todos os usuários...
+2025-02-04 14:10:48,132 - INFO - Buscando lista de usuários
+2025-02-04 14:10:48,172 - INFO - Lista de usuários recebida com sucesso.
+2025-02-04 14:10:51,303 - INFO - Obtendo usuário por ID
+2025-02-04 14:10:51,303 - INFO - Buscando lista de usuários
+2025-02-04 14:10:51,333 - INFO - Lista de usuários recebida com sucesso.
+2025-02-04 14:10:51,334 - INFO - Obtendo posts do usuário por ID de usuário.
+2025-02-04 14:10:51,334 - INFO - Buscando posts do usuário
