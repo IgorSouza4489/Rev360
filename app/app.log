@@ -16,3 +16,12 @@
 2025-02-04 14:10:51,333 - INFO - Lista de usuários recebida com sucesso.
 2025-02-04 14:10:51,334 - INFO - Obtendo posts do usuário por ID de usuário.
 2025-02-04 14:10:51,334 - INFO - Buscando posts do usuário
+2025-02-04 22:27:27,056 - INFO - Iniciando aplicação
+2025-02-04 22:27:29,549 - INFO - Obtendo todos os usuários...
+2025-02-04 22:27:29,549 - INFO - Buscando lista de usuários
+2025-02-04 22:27:29,601 - INFO - Lista de usuários recebida com sucesso.
+2025-02-04 22:27:35,677 - INFO - Obtendo usuário por ID
+2025-02-04 22:27:35,678 - INFO - Buscando lista de usuários
+2025-02-04 22:27:35,736 - INFO - Lista de usuários recebida com sucesso.
+2025-02-04 22:27:35,737 - INFO - Obtendo posts do usuário por ID de usuário.
+2025-02-04 22:27:35,737 - INFO - Buscando posts do usuário
